@@ -14,7 +14,7 @@
 > To run the back end use ```npm run start```.
 > to run the front end use ```npm run dev```
 > after using ```cd front```.
-> make sure to run ```npm install``` in both the root and main folder
+> make sure to run ```npm install``` in both the root and 'front' folder
 
 
 > do use promises.
