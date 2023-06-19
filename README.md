@@ -2,7 +2,7 @@
 
 
 > Main.js is the backend for the example
-
+> inside of folder 'front' app.jsx contains the entire front end logic.
 
 > A Problem I can't make sense of is that this line in main.js is almost like magic. Without it the front end spams the backend. Fix later as it should just be ```updates.slice(data.version)```
 ```javascript
